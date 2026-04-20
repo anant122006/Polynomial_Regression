@@ -44,33 +44,6 @@ Unlike linear regression, polynomial regression fits a curve to the data, making
 
 ---
 
-## 🚀 How to Run
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/your-username/repo-name.git
-   ```
-
-2. Navigate to the folder:
-
-   ```bash
-   cd repo-name
-   ```
-
-3. Install dependencies:
-
-   ```bash
-   pip install numpy matplotlib scikit-learn
-   ```
-
-4. Run the notebook:
-
-   ```bash
-   jupyter notebook polynomial-regression.ipynb
-   ```
-
----
 
 ## 📷 Output
 
@@ -94,11 +67,7 @@ Unlike linear regression, polynomial regression fits a curve to the data, making
 
 ---
 
-## 👨‍💻 Author
 
-Your Name
-
----
 
 ## ⭐ If you found this useful
 
